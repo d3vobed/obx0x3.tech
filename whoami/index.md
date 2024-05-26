@@ -2,6 +2,10 @@
 
 
 ---
+# whoami?
+
+
+---
 
 ### ❓ Introduction
 Hey I'm oBx, I'm an **Advanced Script Kiddie or StackOverflow Dev** and I love to write Offensive Tools in C, Rust, java, go and Assembly, Sometimes i **pwn boxes** for fun the other times i just find **low hanging fruit bugs or fix them**!. Currently a cybersecurity student at FUTMX. My favourite tech fields are **pentesting(cloud/web/AD/hardware)**, **forensics**, **malware analysis**, **exploit development**, **embedded hacking** & **anything full-stack development**.   
@@ -56,4 +60,5 @@ I plan to pursue in the field of security research and digital forensics. My goa
 ![](all-might.gif)
 
 {{< /style >}}
+
 

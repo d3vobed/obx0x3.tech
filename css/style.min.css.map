@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/runner/work/hashp4.fr/hashp4.fr",
+	"sourceRoot": "/home/runner/work/obx0x3.tech/obx0x3.tech",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",

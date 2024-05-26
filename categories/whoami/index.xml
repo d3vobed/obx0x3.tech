@@ -3,13 +3,12 @@
         <title>whoami - Category - Blog - hashp4</title>
         <link>https://hashp4.fr/categories/whoami/</link>
         <description>whoami - Category - Blog - hashp4</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 25 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://hashp4.fr/categories/whoami/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 25 May 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://hashp4.fr/categories/whoami/" rel="self" type="application/rss+xml" /><item>
     <title>whoami?</title>
     <link>https://hashp4.fr/whoami/</link>
-    <pubDate>Tue, 25 Jan 2022 00:00:00 &#43;0000</pubDate><author>
-                    <name>hashp4</name>
+    <pubDate>Sat, 25 May 2024 00:00:00 &#43;0000</pubDate><author>
+                    <name>obx</name>
                 </author><guid>https://hashp4.fr/whoami/</guid>
-    <description><![CDATA[❓ IntroductionI am a former cyberdefense student at ENSIBS and Threat Hunter at WithSecure. My favorite infosec fields are OSINT, pentest, forensics and malware analysis.
-💻 Infosec, or about 80% of my lifeBeing passionate about computer security, I practice during my free time various activities in the field. I&rsquo;m founder and a member of the MILF (Mother I&rsquo;d Like to Flag) CTF Team. We participate in various CTFs throughout the year wether they are online or on-site.]]></description>
+    <description><![CDATA[whoami? ❓ IntroductionHey I&rsquo;m oBx, I&rsquo;m an Advanced Script Kiddie or StackOverflow Dev and I love to write Offensive Tools in C, Rust, java, go and Assembly, Sometimes i pwn boxes for fun the other times i just find low hanging fruit bugs or fix them!. Currently a cybersecurity student at FUTMX. My favourite tech fields are pentesting(cloud/web/AD/hardware), forensics, malware analysis, exploit development, embedded hacking &amp; anything full-stack development.]]></description>
 </item></channel>
 </rss>
