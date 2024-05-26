@@ -43,13 +43,13 @@ This is a non-exhaustive list of certifications and courses I have taken.
 
 - Currently reading the book ["Practical Malware Analysis"](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901) by Michael Sikorski and Andrew Honig
 
--   I'm planning to take the **Offensive Security Certified Penetration Tester(OSCP
+-   I'm planning to take the Offensive Security Certified Penetration Tester(OSCP
 ) exam by the *end of 2024*.
 
 ---
 
 ### 🪟 Life outside of infosec, the last 20%
-Outside of **cybersecurity and 0s and 1s**, I am also passionate about other things. I'm interested in **visual effects & character animations** as a whole. In fact, I often take few times once in a week to make a rig and model a character for my short movie. 
+Outside of **cybersecurity and 0s & 1s**, I am also passionate about other things. I'm interested in **visual effects & character animations** as a whole. In fact, I often take few times once in a week to make a rig and model a character for my short movie. 
 
 I speak 5 languages, my home language,english, spanish, french, a bit of mandarin and russian(*Хах*). I love to explore and learn new things, not always a traveler but a settler :)
 
