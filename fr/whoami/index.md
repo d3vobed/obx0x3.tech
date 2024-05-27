@@ -1,48 +1,56 @@
-# whoami?
+```markdown
+# qui suis-je?
+
+
+---
+# qui suis-je?
 
 
 ---
 
 ### ❓ Introduction
-Diplomé de l'ENSIBS en tant qu'ingénieur en cyberdéfense et Threat Hunter pour WithSecure. Mes catégories préférées sont l'**OSINT**, le **pentest**, le **forensic** et l'**analyse de malware**.
+Salut, je suis oBx, un **Script Kiddie Avancé ou Développeur StackOverflow** et j'aime écrire des outils offensifs en C, Rust, Java, Go et Assembly. Parfois, je **pirate des machines** pour le plaisir, d'autres fois je trouve et corrige des **failles de sécurité mineures**! Actuellement, je suis étudiant en cybersécurité à FUTMX. Mes domaines technologiques préférés sont **le pentesting (cloud/web/AD/hardware)**, **la criminalistique**, **l'analyse de malware**, **le développement d'exploits**, **le piratage embarqué** et **tout ce qui touche au développement full-stack**.
 
 ---
 
-### 💻 Infosec, ou environs 80% de ma vie
-Passionné par la sécurité informatique, je pratique pendant mon temps libre diverses activités dans ce domaine. Je suis fondateur et membre de l'équipe CTF [MILF](https://milfctf.com/) (*Mother I'd Like to Flag*). Nous participons à plusieurs CTF tout au long de l'année, que ce soit en ligne ou sur site. 
+### 💻 Infosec, ou environ 80% de ma vie
+Passionné par la sécurité informatique, je pratique diverses activités dans ce domaine pendant mon temps libre. Je suis fondateur et membre de l'équipe CTF [R3syst](https://ctftime.org/team/303681). Nous participons à divers CTF tout au long de l'année, qu'ils soient en ligne ou sur site, et nous faisons régulièrement des revues de sécurité et technologiques sur YouTube :XD. 
 
-En dehors des CTF, j'aime m'entraîner sur diverses plateformes d'apprentissage comme TryHackMe ou HackTheBox.
+En dehors des CTF, j'aime manipuler des échantillons de malware de VirusTotal & any.run, rechercher des bugs dans les domaines binary, cloud, chrome v8 et web/web3 sur des plateformes de hacking éthique, créer des outils de sécurité sur GitHub, développer mon application mobile de botnet de commande et contrôle, créer des modèles 3D CGI à vendre, faire du freelancing pour des jobs de développement full-stack, et la plupart du temps, faire des recherches en sécurité sur des dispositifs matériels et cloud (IoT).
 
 ---
 
 ### 🏅 Cours et certifications
-Liste non-exhaustive des certifications et des cours que j'ai suivi.
 
-- Certification OSCP [(badge ici)](https://www.credential.net/a54e0af8-07ca-48bb-96ff-f757913e1bb8#gs.39qnkb)
-- Complétion du cours [Practical Malware Analysis & Triage](https://academy.tcm-sec.com/p/practical-malware-analysis-triage) par **TCM Security** et **HuskyHacks**
+Voici une liste non exhaustive des certifications et cours que j'ai suivis.
 
-- Actuellement en train de suivre le cours [Zero2Automated](https://courses.zero2auto.com/) par Vitali Kremez (@VK_Intel), Daniel Bunce (@0verfl0w_) and Jason Reaves (@sysopfb)
-- Actuellement en train de lire le livre ["Practical Malware Analysis"](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901) écrit par Michael Sikorski et Andrew Honig
+- HacktheBox CPTS (CERT_ID: HTBCERT-2508B8ABE8) [(CERT_LINK)](https://www.hackthebox.com/certificates)
 
-- J'ai prévu de passer la certification **Practical Junior Malware Researcher** (PJMR) courant *Juin 2024*.
+- Actuellement en train de suivre le cours [OSED Certification Path](https://zeyadazima.com/certificates/osedjg/) par Offensive Security
+
+- Actuellement en train de suivre le cours [OSEP Certification Path](https://help.offsec.com/hc/en-us/articles/360050293792-OSEP-Exam-Guide) par Offensive Security
+
+- Actuellement en train de lire le livre ["Practical Malware Analysis"](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901) par Michael Sikorski et Andrew Honig
+
+- Je prévois de passer l'examen Offensive Security Certified Penetration Tester (OSCP) *d'ici fin 2024*.
 
 ---
 
-### 🪟 Ma vie en dehors de l'infosec, les derniers 20%
-En dehors de la cybersécurité, je suis également passionné par d'autres choses. Je m'intéresse aux sports mécaniques dans leur ensemble. Je participe d'ailleurs souvent à des balades ou à des rassemblements entre passionnés de cette discipline. 
+### 🪟 Vie en dehors de l'infosec, les 20% restants
+En dehors de la **cybersécurité et des 0 et 1**, je suis également passionné par d'autres choses. Je m'intéresse **aux effets visuels et aux animations de personnages** dans leur ensemble. En fait, je prends souvent quelques heures une fois par semaine pour créer une rig et modéliser un personnage pour mon court-métrage.
 
-Je suis également passionné par le Japon. J'ai d'ailleurs eu l'occasion d'y voyager et d'y travailler pendant 2 mois durant l'été 2022. En effet, dans le cadre du diplôme d'ingénieur, il est nécessaire de passer au minimum **8 semaines** à l'étranger.
+Je parle 5 langues, ma langue maternelle, l'anglais, l'espagnol, le français, un peu de mandarin et le russe (*Хах*). J'aime explorer et apprendre de nouvelles choses, pas toujours un voyageur mais un sédentaire :)
 
-Enfin, l'espace est un domaine qui me fascine. Cela dit, je n'ai jamais été très doué pour résoudre des équations en cours de physique :p.
+Enfin, l'espace est un domaine qui m'a toujours fasciné. Cela dit, je n'étais pas très bon au lycée pour résoudre les équations de physique. :P. J'ai repris des cours de physique en ligne et j'ai acquis de nouvelles connaissances vastes sur la vie.
 
 ---
 
 ### ✨ Projets futurs
-J'envisage de poursuivre dans le domaine de l'investigation numérique et de la réponse à incidents. Mon objectif, aussi grand soit-il, est de faire avancer la science, et plus particulièrement le domaine de la cyberdéfense, en contribuant à la communauté et en améliorant la sécurité informatique. 
+Je prévois de poursuivre dans le domaine de la recherche en sécurité et de la criminalistique numérique. Mon objectif, aussi ambitieux soit-il, est de stimuler la créativité et la pensée abstraite, et plus précisément le domaine des cyberopérations en contribuant à la communauté et en améliorant la sécurité informatique.
 
 {{< style "text-align: center;" >}}
 
-"Just believe in yourself and you can become a hero."
+"Les choses les plus stupides ont les meilleurs résultats."
 
 {{< /style >}}
 
@@ -51,4 +59,4 @@ J'envisage de poursuivre dans le domaine de l'investigation numérique et de la 
 ![](all-might.gif)
 
 {{< /style >}}
-
+```
